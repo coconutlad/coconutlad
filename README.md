@@ -1,16 +1,21 @@
-### Hi there 👋
+## Tools
+Don't spend time deciding what to use. Focus on what you're building.
 
-<!--
-**coconutlad/coconutlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Text editor** : [VS Code](https://code.visualstudio.com/)
+* **Terminal text editor** (when you can't use VS Code Remote for some reason): Vim + tmux.
+* **Plugin manager for vim** : [vim-plug](https://github.com/junegunn/vim-plug)
+* **Theme** : "VS Code dark+" or "One Dark" (which also has "One Light")
+* **Font** : 'Hack' for code. 'Consolas' for most other things. 
+[Meslolgs Nerd Font](https://github.com/andreberg/Meslo-Font) for your terminal or 'Ubuntu Mono'.
+* **Hosting static content** : GitHub pages (repository settings > pages) + GitHub actions.  
+  (GitLab works too)
+* **Online IDE** : [CodeSandbox](https://codesandbox.io) (Has real-time collaboration). Easy setup if you have a GitHub account.
+* **Pictures** : [Pexels](https://www.pexels.com/) has good quality CC pictures and a fast search bar :)
+* **Drawing diagrams** : [draw.io](https://github.com/jgraph/drawio)
+  You can self-host if you like by just forking it and setting up GitHub pages :O  
 
-Here are some ideas to get you started:
+Try to fully explore all features of the listed tools before you decide you need some new tool.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The defaults are usually pretty powerful and clean.
+
+Have fun! 🙂
