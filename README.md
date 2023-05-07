@@ -1,14 +1,12 @@
 ## Tools
 Don't spend time deciding what to use. Focus on what you're building.
 
-* **Text editor** : [VS Code](https://code.visualstudio.com/)
-* **Terminal text editor** (when you can't use VS Code Remote for some reason): Vim + tmux.
-* **Plugin manager for vim** : [vim-plug](https://github.com/junegunn/vim-plug)
+* **Text editor** : [VS Code](https://code.visualstudio.com/). They also have a web editor now (<vscode.dev>)
 * **Theme** : "VS Code dark+" or "One Dark" (which also has "One Light")
 * **Font** : 'Hack' for code. 'Consolas' for most other things. 
 [Meslolgs Nerd Font](https://github.com/andreberg/Meslo-Font) for your terminal or 'Ubuntu Mono'.
 * **Hosting static content** : GitHub pages (repository settings > pages) + GitHub actions.  
-  (GitLab works too)
+  (GitLab works too, especially if you want to keep your repo private)
 * **Online IDE** : [StackBlitz](https://stackblitz.com/) Easy setup if you have a GitHub account. They're constanly improving. Given this, you could probably do web dev on a tablet.
 * **Pictures** : [Pexels](https://www.pexels.com/) has good quality CC pictures and a fast search bar :)
 * **Drawing diagrams** : [draw.io](https://github.com/jgraph/drawio)
