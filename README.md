@@ -1,7 +1,7 @@
 ## Tools
 Don't spend time deciding what to use. Focus on what you're building.
 
-* **Text editor** : [VS Code](https://code.visualstudio.com/). They also have a web editor now (<vscode.dev>)
+* **Text editor** : [VS Code](https://code.visualstudio.com/). They also have a web editor now (<https://vscode.dev>)
 * **Theme** : "VS Code dark+" or "One Dark" (which also has "One Light")
 * **Font** : 'Hack' for code. 'Consolas' for most other things. 
 [Meslolgs Nerd Font](https://github.com/andreberg/Meslo-Font) for your terminal or 'Ubuntu Mono'.
